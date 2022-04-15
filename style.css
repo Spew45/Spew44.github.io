@@ -122,6 +122,60 @@ div.fourteen {
   height: 100px;
 }
 
+div.fifteen {
+  position: absolute;
+  top: 340px;
+  right: 1075px;
+  width: 200px;
+  height: 100px;
+}
+
+div.sixteen {
+  position: absolute;
+  top: 360px;
+  right: 1075px;
+  width: 200px;
+  height: 100px;
+}
+
+div.seventeen {
+  position: absolute;
+  top: 380px;
+  right: 1075px;
+  width: 200px;
+  height: 100px;
+}
+
+div.eighteen {
+  position: absolute;
+  top: 400px;
+  right: 1075px;
+  width: 200px;
+  height: 100px;
+}
+
+div.nineteen {
+  position: absolute;
+  top: 420px;
+  right: 1075px;
+  width: 200px;
+  height: 100px;
+}
+
+div.twenty {
+  position: absolute;
+  top: 440px;
+  right: 1075px;
+  width: 200px;
+  height: 100px;
+}
+
+
+
+
+
+
+
 
 
 
