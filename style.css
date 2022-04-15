@@ -106,6 +106,22 @@ div.twelve {
   height: 100px;
 }
 
+div.fourteen {
+  position: absolute;
+  top: 300px;
+  right: 1075px;
+  width: 200px;
+  height: 100px;
+}
+
+div.fifteen {
+  position: absolute;
+  top: 280px;
+  right: 1075px;
+  width: 200px;
+  height: 100px;
+}
+
 
 
 
