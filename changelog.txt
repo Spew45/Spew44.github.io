@@ -1,0 +1,6 @@
+Changelog
+
+April 20, 2022 -
+  - Fixed Favicon
+  - Added Changelog
+  - Added Slope
