@@ -10,6 +10,12 @@ div.line {
   right: 635px;
 }
 
+div.line2 {
+  position: absolute;
+  top: 35px;
+  right: 1075px;
+}
+
 div.one {
   position: absolute;
   top: 60px;
