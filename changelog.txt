@@ -10,3 +10,5 @@ April 21, 2022 -
   - Added Three Moto X3M Versions
   - Bug Fixes
   - Added Geometry Dash Remastered
+  - Added Idle Breakout
+  - Added Geometry Dash
