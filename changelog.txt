@@ -8,3 +8,5 @@ April 20, 2022 -
 April 21, 2022 -
   - Made a New Github Release
   - Added Three Moto X3M Versions
+  - Bug Fixes
+  - Added Geometry Dash Remastered
