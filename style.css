@@ -67,7 +67,7 @@ div.seven {
 
 div.eight {
   position: absolute;
-  top: 600px;
+  top: 200px;
   right: 1075px;
   height: 100px;
 }
@@ -224,14 +224,5 @@ div.thirty {
   top: 640px;
   right: 1075px;
   height: 100px;
+  column-width: 300px;
 }
-
-
-
-
-
-
-
-
-
-
