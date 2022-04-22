@@ -4,6 +4,10 @@
   padding: 20px; 
 }
 
+div.linespacing {
+  line-height: 80%;
+}
+
 div.line {
   position: absolute;
   top: 35px;
