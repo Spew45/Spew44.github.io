@@ -230,3 +230,38 @@ div.thirty {
   right: 1075px;
   column-width: 300px;
 }
+
+div.thirty-one {
+  position: absolute;
+  top: 660px;
+  right: 1075px;
+  column-width: 300px;
+}
+
+div.thirty-two {
+  position: absolute;
+  top: 680px;
+  right: 1075px;
+  column-width: 300px;
+}
+
+div.thirty-three {
+  position: absolute;
+  top: 700px;
+  right: 1075px;
+  column-width: 300px;
+}
+
+div.thirty-four {
+  position: absolute;
+  top: 720px;
+  right: 1075px;
+  column-width: 300px;
+}
+
+div.thirty-five {
+  position: absolute;
+  top: 740px;
+  right: 1075px;
+  column-width: 300px;
+}
